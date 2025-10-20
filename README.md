@@ -1,21 +1,32 @@
-# 💫 About Me:
-🔭 I’m currently working on C++ mini projects and exploring Data Science applications in Biotechnology.<br>👯 I’m looking to collaborate on beginner-friendly C++ or bioinformatics projects.<br>🤝 I’m looking for help with learning advanced Data Science tools and techniques.<br>🌱 I’m currently learning Machine Learning and its applications in biological data.<br>💬 Ask me about C++ basics or how coding can be used in BioTech.<br>⚡ Fun fact: I mix biology with code — a BioTech student who loves data!
+<h2>👋 Hi there, I'm Asnehita Das!</h2>
+<img src="https://baoayano.github.io/wp.png" width="300" align="right">
+I'm a Data Science and Biotechnology student from UIT BU, currently 18 years old.
+<br>
+I code a little in C++ and love exploring how tech and biology connect.
+<br>
+<br>
+Currently learning and experimenting with data, biology, and code — one project at a time.
 
+<h3>🌐 Tech stack</h3>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asnehitadas@gmail.com) 
+![](https://skillicons.dev/icons?i=cpp,python,html,css,js)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asnehitadas-71&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asnehitadas-71&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asnehitadas-71&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3>🛠️ Tools</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://skillicons.dev/icons?i=git,vscode,anaconda,github)
 
----
-[![](https://visitcount.itsvg.in/api?id=asnehitadas-71&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3>📫 Contact</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💬 You can reach me at: [asnehitadas@gmail.com](mailto:asnehitadas@gmail.com)
+<br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1175389241350561924?showDisplayName=true&hideSpotify=true)](https://discord.com/users/1175389241350561924)
+<br>
+
+<h3>⭐ Achievements</h3>
+
+![So good I can't handle it](https://camo.githubusercontent.com/0448b00c11f371fc588647e0d2f2d4067bce73c7c3005a0c6314bfd267638491/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f6d616e67612d73636f72652d686967682e706e67)
+![Signed the contract](https://camo.githubusercontent.com/2b472ec256707c70f502f93de91862d4ad1e59cf4ed64863e6ad5c1424e533ee/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f616e696d652d6d61686f752d73686f756a6f2d312e706e67)
+![Gettin' your keys on!](https://camo.githubusercontent.com/17cf4ec6662fbcaba370569ff82d6158bbc6fd80cfc0d9375d101ed02aae1686/68747470733a2f2f616e696d652e706c75732f696d6167652f616368696576656d656e742f616e696d652d6d757369632d312e706e67)
+
+*get some achievements here: [achievements.md](https://github.com/anime-plus/graph/blob/main/achievements.md)*
