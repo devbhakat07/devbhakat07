@@ -27,7 +27,7 @@
   A **Discord Selfbot** designed for automation and customization.
 <br/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/898521048545374248)](https://discord.com/users/898521048545374248)
+[![Discord Presence](https://lanyard.cnrad.dev/api/959733702609494076)](https://discord.com/users/959733702609494076)
 
 ![](https://github-readme-stats.vercel.app/api?username=devrock07&theme=omni&hide_border=false&include_all_commits=true&count_private=false)
   
