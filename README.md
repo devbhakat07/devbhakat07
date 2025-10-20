@@ -2,7 +2,7 @@
 <img src="./assets/HeadIcon.png" width="300" align="right" />
 <br/>
 <br/>
-<img src="./assets/AboutMe-Mika.png" width="500" />
+<img src="./assets/AboutMe.png" width="500" />
 <br/>
   
 - Name: **Dev Bhakat** (You can call me **devrock** or **zenithsenpai**)
@@ -14,10 +14,10 @@
 - Familiar with **Windows**, **Debian**, and **Linux**
 
 - Languages: **Hindi**, **English**, **Bengali**
-<img src="./assets/MisonoMika.png" width="300" align="right" />
+<img src="./assets/banner.png" width="300" align="right" />
 <br/>
 <br/>
-<img src="./assets/Repositories-Mika.png" width="500" />
+<img src="./assets/Repo.png" width="500" />
 <br/>
 <br/>
   
