@@ -1,34 +1,25 @@
-<h1 align="center">✨ Hey there, I’m Asnehita Das ✨</h1>
+<h1 align="center">👋 Hi, I’m **Asnehita Das**</h1>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" width="600" alt="animated banner"/>
 </div>
 
-<br/>
+---
 
-<h2 align="left">💫 About Me</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="left">
-
-<ul>
-<li><b>Name:</b> Asnehita Das</li>
-<li><b>Email:</b> <a href="mailto:asnehitadas@gmail.com">asnehitadas@gmail.com</a></li>
-<li><b>Field:</b> Data Science & Bio Technology</li>
-<li><b>Learning:</b> C++ (a lil bit 👩‍💻)</li>
-</ul>
-
-</td>
-</tr>
-</table>
-
+## 📌 About Me  
+<div align="center">  
+| Key | Details |  
+|-----|---------|  
+| **Name** | Asnehita Das |  
+| **Email** | [asnehitadas@gmail.com](mailto:asnehitadas@gmail.com) |  
+| **Area** | Data Science & BioTech Student |  
+| **Learning** | C++ (a little bit 😉) |  
 </div>
 
 ---
 
-<div align="center">
-  <sub>Made with 💙 and curiosity</sub>
-</div>
+## 🌟 My GitHub at a Glance  
+Add your metrics card below (powered by lowlighter/metrics) — this shows your GitHub activity, languages, contributions etc.
+
+```md
+![Metrics](https://metrics.lecoq.io/asnehitadas-71?template=classic&languages=1&achievements=1)
