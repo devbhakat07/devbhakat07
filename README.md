@@ -1,62 +1,17 @@
-#
-<div>
-<img src=https://github.com/InboraStudio/InboraStudio/assets/96738915/b24e0cf1-4d94-4b1a-ac4c-834c8150d620) width="300" align="right" />
-<br/>
-<img src="https://github.com/user-attachments/assets/3473c039-8cb8-46b4-88bc-252fd97fdfa7" width="500" />
-<br/>
-<br/>
- 
-
-- <img src="https://media.tenor.com/scCN_vagWI0AAAAi/play-violet-angry.gif" alt="." width="25" height="25"/> Lazy Developer
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Tencent_Logo.svg/1200px-Tencent_Logo.svg.png" alt="." width="95" height="16"/> is Love
-- <img src="https://i.imgur.com/a2KhTyR.gif" alt="."  width="25" height="25" /> I am 1x years old. 
-- <img src="https://media.tenor.com/Fpdl08LKCKQAAAAi/mythikore-anime-girl.gif" alt="." width="35" height="35"/> I work on AI Optimization & fundamental development also A Game development as hobbie, *and sometimee 3d anime girl modelling ( shhh, don't tell anyone! )* <img src="https://media.tenor.com/I52W87bM7K8AAAAi/anime-aaaa.gif" alt="." width="25" height="25" />    
-  ↳ 'Some Projects' Physic Engine, 32bit Kernel, Language DataSets And FPS, horror, multiplayer, openwolrd, Stylised Games, so much more!
-
-  #### Good with with all Headache,
-  
-![Dr Chamyoung (6)](https://github.com/InboraStudio/InboraStudio/assets/96738915/c460bce2-4d84-4628-b495-11f97b600eef)
-
-  
-  ### also in C++, C#, Java
-
-<img src="https://i.imgur.com/5L7IfBu.png" width="300" align="right" />
-<br/>
-<img src="https://github.com/user-attachments/assets/fb411ef8-74e0-4a32-9e8a-825c365b715b" width="500" />
-<br/>
-<br/>
-
-# Projects Contributions <!-- omit in toc -->
-  
-> - 📗 [***SaltPlayerSourceV10.5.0.2***](https://github.com/Moriafly/SaltPlayerSource) <br/>
-Salt Player (A local music player trusted and chosen by hundreds of thousands of users) 
-> - 📘 [***Google comprehensive-rust***](https://github.com/google/comprehensive-rust) <br/>
- Rust developed Android team at Google 
+# 💫 About Me:
+🔭 I’m currently working on C++<br>👯 I’m looking to collaborate on Data Science and Bio Tech projects<br>🌱 I’m currently learning Data Science and Bio Tech<br>💬 Ask me about C++ and Data Science<br>📫 How to reach me: asnehitadas@gmail.com<br>⚡ Fun fact: I love turning data into insights and code into solutions!
 
 
- 
-> - 📙 [***Microsoft Windows Seh***](https://github.com/microsoft/windows_seh_tests) <br/>
- Windows C/C++ Structured Exception Handling Validation Test Suite
-> - 📕 [***Unreal Engine 6.2.1Alpha***](https://github.com/EpicGames/UnrealEngine) <br/>
-  Geometry Subdata Handling Selection In Unreal 6.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asnehita-das) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/asnehitadas) 
 
-<br/>
-<img src="https://i.imgur.com/JgHTZVd.gif" width="500" /><br/>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<sub>  *“Their doubt is a reflection of their mindset, not your potential. ♪.” – Dr chamyoung * </sub>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=asnehitadas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=asnehitadas&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asnehitadas&theme=dark&hide_border=false&layout=compact)
 
-## Discord
-<a href="https://discord.com/users/1090224458549182546"  align="left">
-    <img src="https://lanyard.cnrad.dev/api/1090224458549182546?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)">
-  </a>
-
-
-<br/>
-
-## Commits
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-
-## Thanks for reading ❤️
+---
+[![](https://visitcount.itsvg.in/api?id=asnehitadas&icon=0&color=0)](https://visitcount.itsvg.in)
