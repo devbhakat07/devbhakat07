@@ -1,5 +1,5 @@
 <h2>👋 Hi there, I'm Asnehita Das!</h2>
-<img src="https://baoayano.github.io/wp.png" width="300" align="right">
+<img src="https://rare-gallery.com/thumbs/1191989-anime-anime-girls-portrait-display-Hatsune-Miku.png" width="300" align="right">
 I'm a Data Science and Biotechnology student from UIT BU, currently 18 years old.
 <br>
 I code a little in C++ and love exploring how tech and biology connect.
